@@ -1,3 +1,3 @@
-# PRO-C153-Teacher-Reference-Code
+# PRO-C153-Código-referencia-maestra
 
-### NOTE: 3D-Models Required
+### NOTA: Modelos 3D requeridos
